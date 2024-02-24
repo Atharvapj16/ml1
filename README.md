@@ -20,4 +20,4 @@
 ``` python setup.py install```
 
 # <B> Another way is u can mention (-e .) in ur requirements.txt and then installing requirements.txt
-``` pip install requiremnets.txt```
+``` pip install requirements.txt```
