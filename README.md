@@ -1,4 +1,3 @@
 # This my first  project
-``` git init ```
-``` git commit -m "this is my first commit```
-``` hi guys ```
+``` bash init_setup.sh```
+``` source activate ./env```
